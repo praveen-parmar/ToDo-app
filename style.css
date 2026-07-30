@@ -1,0 +1,14 @@
+body {
+  font-family: Arial;
+  display: flex;
+  justify-content: center;
+  margin-top: 50px;
+}
+
+.box {
+  width: 300px;
+}
+
+li {
+  margin: 10px 0;
+}
